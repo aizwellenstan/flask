@@ -1,0 +1,9 @@
+kafka-python
+opencv-python
+Flask
+numpy
+flask-socketio
+# flask_sockets
+socket_io_emitter
+kafka
+redis
